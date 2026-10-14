@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories: <br/>
 <img width="278" height="496" alt="ezgif-6f50276dc23382f5" src="https://github.com/user-attachments/assets/e58f92e9-18a6-4ce1-9046-cddf76264eaa" />
 
 
