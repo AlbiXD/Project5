@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project-04</string>
+    <string name="add_new_food">ADD NEW FOOD</string>
+    <string name="food_name">Food Name</string>
+    <string name="calories">Calories</string>
+    <string name="save_food">SAVE FOOD</string>
+    <string name="please_enter_valid_food_info">Please enter valid food information</string>
+</resources>
